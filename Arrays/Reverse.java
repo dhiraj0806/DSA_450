@@ -1,5 +1,5 @@
 import java.util.*;
-public class Test {
+public class Reverse {
     static void reverse(int arr[], int start, int end){
         int temp;
         while(start < end){
